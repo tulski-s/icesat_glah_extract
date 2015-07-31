@@ -1,7 +1,7 @@
 # icesat_glah_extract
 GUI application for extracting your data from GLAH files
 
-It was my first GUI app which was created for handling ICESat mission hdf data more efficiently. It depends on h5py library.
+It was my first GUI app which was created for handling ICESat mission hdf data more efficiently. It is for Python 2.7 and depends on h5py library.
 
 Find sample ICESat mission data on NASA website to see how it works.
 http://icesat.gsfc.nasa.gov/icesat/hdf5_products/data/index.php 
